@@ -1,0 +1,19 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Virtual Environment (Important!)
+.venv/
+venv/
+env/
+
+# Ignore IDE settings
+.idea/
+
+# Ignored Datasets
+*.csv
+*.zip
+STINK3014_CaseStudy_DL_facialexpression/Model-Development/fer2013.csv
