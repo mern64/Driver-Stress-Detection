@@ -70,6 +70,8 @@ pip install tensorflow opencv-python pandas scikit-learn matplotlib
 Check out the system in action! Below is a demonstration of the real-time facial expression detection and stress classification:
 
 ![Application Demo](path/to/your/demo-video.gif)
-*(If the video above doesn't load, you can view the file directly [here](./path/to/your/video.mp4))*
+![2EBED645-6D94-4BFF-9D1C-9517F25C35DA_1_102_a](https://github.com/user-attachments/assets/fd02ed07-d4c0-46a6-aa02-76ef46f97fee)
+
+
 
 > **Note:** The demo highlights the system's ability to track facial movements and update the "Stress" vs "Calm" status dynamically as the user's expression changes.
