@@ -1,7 +1,3 @@
-Certainly! Based on the provided project structure and source code, here is a comprehensive `README.md` file for your **Emotion Recognition System**.
-
-***
-
 # Emotion Recognition & Stress Detection System
 
 This project is a Deep Learning-based application designed to recognize facial expressions and classify them into two primary emotional states: **Stress** and **Calm**. By leveraging Convolutional Neural Networks (CNN) and real-time computer vision, the system provides an automated way to monitor emotional well-being.
@@ -69,9 +65,7 @@ pip install tensorflow opencv-python pandas scikit-learn matplotlib
 ## 📺 Demo
 Check out the system in action! Below is a demonstration of the real-time facial expression detection and stress classification:
 
-![Application Demo](path/to/your/demo-video.gif)
-![2EBED645-6D94-4BFF-9D1C-9517F25C35DA_1_102_a](https://github.com/user-attachments/assets/fd02ed07-d4c0-46a6-aa02-76ef46f97fee)
-
+https://github.com/user-attachments/assets/ece3d792-0b94-4cba-a0d8-3f42526ed109
 
 
 > **Note:** The demo highlights the system's ability to track facial movements and update the "Stress" vs "Calm" status dynamically as the user's expression changes.
